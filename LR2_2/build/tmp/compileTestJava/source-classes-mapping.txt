@@ -1,0 +1,2 @@
+SUT/IST012m/Tarasenko/LR2_2/Lr22ApplicationTests.java
+ SUT.IST012m.Tarasenko.LR2_2.Lr22ApplicationTests
